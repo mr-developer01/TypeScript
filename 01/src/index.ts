@@ -1,3 +1,5 @@
+// import {myAge} from "./function.js"
+
 const a = 300;
 console.log(a);
 
